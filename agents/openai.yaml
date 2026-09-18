@@ -1,0 +1,4 @@
+interface:
+  display_name: "软考 Java 大题教练"
+  short_description: "按调用关系反推软考软件设计师 Java 下午题填空"
+  default_prompt: "使用 $ruankao-java-coach 按类、属性、方法和调用关系逐空讲解这道软考软件设计师 Java 大题。"
