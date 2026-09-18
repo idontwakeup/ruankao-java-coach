@@ -68,6 +68,9 @@ git clone https://github.com/idontwakeup/ruankao-java-coach.git "$HOME/.codex/sk
 
 当提供题目、代码、截图或 PDF 时，Skill 会尽量给出：
 
+- 先展示五条检查口诀
+- 说明每条口诀什么时候使用
+- 用当前题目中的真实类、接口、属性、方法和参数逐条举例
 - 最终答案和作答边界
 - 类、接口、属性和方法清单
 - 每一个空的推理过程
